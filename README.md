@@ -7,3 +7,4 @@ Are you looking for an awesome Developer?
 - 👯 I’m looking to collaborate on Native apps, Cross-Platform apps and Web Apps
 - 💬 Ask me about TypeScript, JavaScript, Java.
 
+Check this out! 👇👇👇
