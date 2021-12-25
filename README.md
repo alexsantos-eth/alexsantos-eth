@@ -44,7 +44,7 @@
 <p align="center">
 <a href="https://linkedin.com/in/alexdsantosv"><img src="https://img.shields.io/badge/-alexdsantosv-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:alexdsantosv@gmail.com"><img src="https://img.shields.io/badge/-alexdsantosv@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.facebook.com/profile.php?id=100001942536393"><img src="https://img.shields.io/badge/-@Alex-1877F2?style=flat&logo=Facebook&logoColor=white"/>
+<a href="https://www.facebook.com/alexdsantosv"><img src="https://img.shields.io/badge/-@alexdsantosv-1877F2?style=flat&logo=Facebook&logoColor=white"/>
 <a href="https://alexdsantosv.medium.com/"><img src="https://img.shields.io/badge/-@alexdsantosv-555?style=flat&logo=Medium&logoColor=white"/> 
 </a>
 </p>
