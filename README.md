@@ -48,4 +48,5 @@
 <a href="https://www.facebook.com/alexdsantosv"><img src="https://img.shields.io/badge/-@alexdsantosv-1877F2?style=flat&logo=Facebook&logoColor=white"/>
 <a href="https://alexdsantosv.medium.com/"><img src="https://img.shields.io/badge/-@alexdsantosv-555?style=flat&logo=Medium&logoColor=white"/> 
 </a>
+![](https://komarev.com/ghpvc/?username=alexsan-dev)
 </p>
