@@ -42,7 +42,7 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://www.youtube.com/channel/UCp2grsTx17QfvuamFMuL4kg"><img src="https://img.shields.io/badge/-@alexdsantosv-FF0000?style=flat&logo=Youtube&logoColor=white"/> 
+<a href="https://www.youtube.com/channel/UCp2grsTx17QfvuamFMuL4kg"><img src="https://img.shields.io/badge/-@alexsantos.eth-FF0000?style=flat&logo=Youtube&logoColor=white"/> 
 <a href="mailto:alexdsantosv@gmail.com"><img src="https://img.shields.io/badge/-@alexdsantosv-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/alexsantos-eth/"><img src="https://img.shields.io/badge/-@alexsantos.eth-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="https://www.facebook.com/alexsantos.eth"><img src="https://img.shields.io/badge/-@alexsantos.eth-1877F2?style=flat&logo=Facebook&logoColor=white"/>
