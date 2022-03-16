@@ -42,12 +42,31 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://www.youtube.com/channel/UCp2grsTx17QfvuamFMuL4kg"><img src="https://img.shields.io/badge/-@alexsantos.eth-FF0000?style=flat&logo=Youtube&logoColor=white"/> 
-<a href="mailto:alexdsantosv@gmail.com"><img src="https://img.shields.io/badge/-@alexdsantosv-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/alexsantos-eth/"><img src="https://img.shields.io/badge/-@alexsantos.eth-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="https://www.facebook.com/alexsantos.eth"><img src="https://img.shields.io/badge/-@alexsantos.eth-1877F2?style=flat&logo=Facebook&logoColor=white"/>
-<a href="https://alexsantos.hashnode.dev/"><img src="https://img.shields.io/badge/-@alexsantos.eth-123c69?style=flat&logo=Hashnode&logoColor=white"/> 
-<a href="https://	alexsantos-eth.medium.com/"><img src="https://img.shields.io/badge/-@alexsantos.eth-555?style=flat&logo=Medium&logoColor=white"/> 
+  <a href="mailto:alexdsantosv@gmail.com">
+    <img src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" alt="Alex Santos's Email" height="30" width="30">
+  </a>
+  <a href="https://www.youtube.com/channel/UCp2grsTx17QfvuamFMuL4kg">
+    <img src="https://www.vectorlogo.zone/logos/youtube/youtube-tile.svg" alt="Alex Santos's YouTube Channel" height="30" width="30">
+  </a>
+
+  <a href="https://www.linkedin.com/in/alexsantos-eth/">
+    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Alex Santos's LinkedIn Profile" height="30" width="30">
+  </a>
+  
+  <a href="https://www.facebook.com/alexsantos.eth">
+    <img src="https://www.vectorlogo.zone/logos/facebook/facebook-tile.svg" alt="Alex Santos's Facebook Profile" height="30" width="30">
+  </a>
+  
+  <a href="https://alexsantos.hashnode.dev/">
+    <img src="https://www.vectorlogo.zone/logos/hashnode/hashnode-icon.svg" alt="Alex Santos's Hashnode Profile" height="30" width="30">
+  </a>
+  
+  <a href="https://alexsantos-eth.medium.com/">
+    <img src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" alt="Alex Santos's Medium Profile" height="30" width="30">
+  </a>
+</p>
+
+<p align="center">
 <img src="https://komarev.com/ghpvc/?username=alexsan-dev&style=flat-square"/> 
 <img src="https://visitor-badge.glitch.me/badge?page_id=alexsan-dev.alexsan-dev"/> 
 </a>
