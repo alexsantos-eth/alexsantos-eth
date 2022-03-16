@@ -2,7 +2,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-- 🌱 I’m currently learning Solifity
+- 🌱 I’m currently learning Solidity
 - 👯 I’m looking to collaborate on Native apps, Cross-Platform apps and Web3 Apps
 - 💬 Ask me about TypeScript, JavaScript, Python
 
