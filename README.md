@@ -2,8 +2,8 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-- 🌱 I’m currently learning Go
-- 👯 I’m looking to collaborate on Native apps, Cross-Platform apps and Web Apps
+- 🌱 I’m currently learning Solifity
+- 👯 I’m looking to collaborate on Native apps, Cross-Platform apps and Web3 Apps
 - 💬 Ask me about TypeScript, JavaScript, Python
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
