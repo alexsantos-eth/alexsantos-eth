@@ -47,6 +47,7 @@
 <a href="https://www.linkedin.com/in/alexsantos-eth/"><img src="https://img.shields.io/badge/-@alexsantos-eth-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="https://www.facebook.com/alexsantos.eth"><img src="https://img.shields.io/badge/-@alexsantos.eth-1877F2?style=flat&logo=Facebook&logoColor=white"/>
 <a href="https://alexdsantosv.medium.com/"><img src="https://img.shields.io/badge/-@alexdsantosv-555?style=flat&logo=Medium&logoColor=white"/> 
+<a href="https://alexsantos.hashnode.dev/"><img src="https://img.shields.io/badge/-@alexdsantos-555?style=flat&logo=Hashnode&logoColor=white"/> 
 <img src="https://komarev.com/ghpvc/?username=alexsan-dev&style=flat-square"/> 
 <img src="https://visitor-badge.glitch.me/badge?page_id=alexsan-dev.alexsan-dev"/> 
 </a>
