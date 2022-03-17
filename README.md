@@ -45,6 +45,7 @@
   <a href="mailto:alexdsantosv@gmail.com">
     <img src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" alt="Alex Santos's Email" height="30" width="30">
   </a>
+  
   <a href="https://www.youtube.com/channel/UCp2grsTx17QfvuamFMuL4kg">
     <img src="https://www.vectorlogo.zone/logos/youtube/youtube-tile.svg" alt="Alex Santos's YouTube Channel" height="30" width="30">
   </a>
@@ -57,7 +58,11 @@
     <img src="https://www.vectorlogo.zone/logos/facebook/facebook-tile.svg" alt="Alex Santos's Facebook Profile" height="30" width="30">
   </a>
   
-  <a href="https://alexsantos.hashnode.dev/">
+  <a href="mailto:alexdsantosv@gmail.com">
+    <img src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="Alex Santos's Email" height="30" width="30">
+  </a>
+  
+  <a href="https://twitter.com/alexsantos_eth/">
     <img src="https://www.vectorlogo.zone/logos/hashnode/hashnode-icon.svg" alt="Alex Santos's Hashnode Profile" height="30" width="30">
   </a>
   
