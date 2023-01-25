@@ -39,6 +39,9 @@
 </a>
 </p>
 
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alexsantos-eth&theme=algolia&title=MultiLanguage,Repositories,Commits,PullRequest,Followers,Stars" alt="alexsantos-eth" /></a> </p>
+
+
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
