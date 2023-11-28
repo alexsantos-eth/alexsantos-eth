@@ -76,6 +76,5 @@
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=alexsan-dev&style=flat-square"/> 
-<img src="https://visitor-badge.glitch.me/badge?page_id=alexsan-dev.alexsan-dev"/> 
 </a>
 </p>
