@@ -1,5 +1,12 @@
 <!-- ## 👋 &nbsp;Hey there! -->
 
+
+📚 Exciting News! Currently crafting a cutting-edge book on React. 🚀 Join me on this journey by checking out the evolving page. Contributions and feedback are welcome! Let's build something amazing together. 🌟 #WIP #AuthorName #NewBookInProgress
+<a href="https://walnut-mochi-e6c.notion.site/Manifiesto-para-la-construcci-n-de-aplicaciones-altamente-escalables-con-React-Native-9d2cccdd84284a739124def0fffb55ae">
+  <h2>📜 Manifiesto para la construcción de aplicaciones altamente escalables con React Native.</h2>
+</a>
+
+
 ### 👨🏻‍💻 &nbsp;About Me
 
 - 🌱 I’m currently learning Solidity
