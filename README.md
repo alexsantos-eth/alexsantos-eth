@@ -1,7 +1,7 @@
 <!-- ## 👋 &nbsp;Hey there! -->
 
 
-📚 Exciting News! Currently crafting a cutting-edge book on React. 🚀 Join me on this journey by checking out the evolving page. Contributions and feedback are welcome! Let's build something amazing together. 🌟 #WIP #AuthorName #NewBookInProgress
+📚 Exciting News! Currently crafting a cutting-edge book on React. 🚀 Join me on this journey by checking out the evolving page. Contributions and feedback are welcome! Let's build something amazing together. 🌟 #WIP #AlexSantos #NewBookInProgress
 ## [📜 Manifiesto para la construcción de aplicaciones altamente escalables con React Native](https://walnut-mochi-e6c.notion.site/Manifiesto-para-la-construcci-n-de-aplicaciones-altamente-escalables-con-React-Native-9d2cccdd84284a739124def0fffb55ae)
 
 
