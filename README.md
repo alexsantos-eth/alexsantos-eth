@@ -2,8 +2,11 @@
 
 
 📚 Exciting News! Currently crafting a cutting-edge book on React. 🚀 Join me on this journey by checking out the evolving page. Contributions and feedback are welcome! Let's build something amazing together. 🌟 #WIP #AlexSantos #NewBookInProgress
-## [📜 Manifiesto para la construcción de aplicaciones altamente escalables con React Native](https://walnut-mochi-e6c.notion.site/Manifiesto-para-la-construcci-n-de-aplicaciones-altamente-escalables-con-React-Native-9d2cccdd84284a739124def0fffb55ae)
 
+[📜 Go to article](https://walnut-mochi-e6c.notion.site/Manifiesto-para-la-construcci-n-de-aplicaciones-altamente-escalables-con-React-Native-9d2cccdd84284a739124def0fffb55ae)
+
+
+----
 
 ### 👨🏻‍💻 &nbsp;About Me
 
@@ -11,7 +14,10 @@
 - 👯 I’m looking to collaborate on Native apps, Cross-Platform apps and Web3 Apps
 - 💬 Ask me about TypeScript, JavaScript, Python
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+### 🎧 &nbsp;Now listen
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12170781114&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=12170781114&redirect=true)
+
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -37,14 +43,13 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-<p align="center">
 <a href="https://github.com/alexsan-dev">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=alexsantos-eth&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=alexsantos-eth&layout=compact&langs_count=8&theme=algolia"/>
 </a>
-</p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alexsantos-eth&theme=algolia&title=MultiLanguage,Repositories,Commits,PullRequest,Followers,Stars" alt="alexsantos-eth" /></a> </p>
+
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alexsantos-eth&theme=algolia&title=MultiLanguage,Repositories,Commits,PullRequest,Followers,Stars" alt="alexsantos-eth" /></a>
 
 
 ### 🤝🏻 &nbsp;Connect with Me
@@ -66,12 +71,8 @@
     <img src="https://www.vectorlogo.zone/logos/facebook/facebook-tile.svg" alt="Alex Santos's Facebook Profile" height="30" width="30">
   </a>
   
-  <a href="mailto:alexdsantosv@gmail.com">
-    <img src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="Alex Santos's Email" height="30" width="30">
-  </a>
-  
-  <a href="https://twitter.com/alexsantos_eth/">
-    <img src="https://www.vectorlogo.zone/logos/hashnode/hashnode-icon.svg" alt="Alex Santos's Hashnode Profile" height="30" width="30">
+  <a href="https://twitter.com/alexsantos_eth">
+    <img src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="Alex Santos's Twitter" height="30" width="30">
   </a>
   
   <a href="https://alexsantos-eth.medium.com/">
